@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif)](https://me.behzodasliddinov.uz)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:730/1*Hu4TWEt6o3iAWeqxqklbZg.jpeg)](https://me.behzodasliddinov.uz)
 <h1 align="center">Hi 👋, I'm Azizjon Bahromov</h1>
 <h3 align="center">I'm Data Science and Machine Learning developer</h3>
 
