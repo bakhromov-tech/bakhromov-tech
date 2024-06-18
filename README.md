@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Azizjon Bahromov</h1>
 <h3 align="center">I'm Data Science and Machine Learning developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asliddinovbehzodjon&label=Profile%20views&color=0e75b6&style=flat" alt="asliddinovbehzodjon" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bakhromov-tech&label=Profile%20views&color=0e75b6&style=flat" alt="bakhromov-tech" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asliddinovbehzodjon" alt="asliddinovbehzodjon" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bakhromov-tech" alt="bakhromov-tech" /></a> </p>
 
 - 🔭 I’m currently working on [Bir Zumda](https://birzumda.behzodasliddinov.uz)
 
