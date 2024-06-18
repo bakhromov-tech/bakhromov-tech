@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif)](https://me.behzodasliddinov.uz)
+[![MasterHead]([https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif](https://dribbble.com/shots/23920679-3D-Interface-Data-Visualization-by-TheMotionDot?utm_source=Clipboard_Shot&utm_campaign=TheMotionDot&utm_content=3D%20Interface%20Data%20Visualization%20by%20TheMotionDot&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=TheMotionDot&utm_content=3D%20Interface%20Data%20Visualization%20by%20TheMotionDot&utm_medium=Social_Share))](https://me.behzodasliddinov.uz)
 <h1 align="center">Hi 👋, I'm Azizjon Bahromov</h1>
 <h3 align="center">I'm Data Science and Machine Learning developer</h3>
 
