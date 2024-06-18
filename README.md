@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:730/1*Hu4TWEt6o3iAWeqxqklbZg.jpeg)](https://me.behzodasliddinov.uz)
+[![MasterHead](https://media.licdn.com/dms/image/D4E12AQGwGxCOQEtydA/article-cover_image-shrink_720_1280/0/1686749902757?e=2147483647&v=beta&t=GagwoJFcHmiVINOx2BRoouwN8M_uIfxSwQJuiyKQ6xc)](https://me.behzodasliddinov.uz)
 <h1 align="center">Hi 👋, I'm Azizjon Bahromov</h1>
 <h3 align="center">I'm Data Science and Machine Learning developer</h3>
 
