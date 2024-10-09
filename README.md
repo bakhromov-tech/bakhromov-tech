@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [https://github.com/bakhromov-tech](https://github.com/bakhromov-tech)
 
-- ⚡ Fun fact **Constant study and sports!**
+- ⚡ **Constant study and sports!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
