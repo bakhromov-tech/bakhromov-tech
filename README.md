@@ -1,26 +1,26 @@
 [![MasterHead](https://media.licdn.com/dms/image/D4E12AQGwGxCOQEtydA/article-cover_image-shrink_720_1280/0/1686749902757?e=2147483647&v=beta&t=GagwoJFcHmiVINOx2BRoouwN8M_uIfxSwQJuiyKQ6xc)](https://t.me/bakhromov_tech)
 <h1 align="center">Hi 👋, I'm Azizjon Bahromov</h1>
-<h3 align="center">I'm Data Science and Machine Learning developer</h3>
+<h3 align="center">I'm Data Science Analytic and Machine Learning developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bakhromov-tech&label=Profile%20views&color=0e75b6&style=flat" alt="bakhromov-tech" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bakhromov-tech" alt="bakhromov-tech" /></a> </p>
 
-- 🔭 I’m currently working on [Bir Zumda](https://birzumda.behzodasliddinov.uz)
+- 🔭 I’m currently working on [ML models](https://github.com/bakhromov-tech)
 
-- 🌱 I’m currently learning **Nuxt.js,Data Science**
+- 🌱 I’m currently learning **Data Science**
 
 - 👯 I’m looking to collaborate on [BigBook](https://bigbook.behzodasliddinov.uz/)
 
-- 👨‍💻 All of my projects are available at [https://me.behzodasliddinov.uz/#portfolio](https://me.behzodasliddinov.uz/#portfolio)
+- 👨‍💻 All of my projects are available at [https://github.com/bakhromov-tech](https://github.com/bakhromov-tech)
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT,VUE,VUEX,PYTHON,AIOGRAM,FLASK,DJANGO,DJANGO REST FRAMEWORK,DJANGO CELERY,RABBITMQ,DJANGO CHANNELS,SQL,POSTGRESQL**
+- 💬 Ask me about **HTML, CSS, PANDAS, NUMPY, MATPLOTLIB, PYTHON, AIOGRAM, LINUX, API, MYSQL, SQL, POSTGRESQL, C++, MACHINE LEARNING, DEPLOYMENT PROJECTS**
 
-- 📫 How to reach me **behzodtuit@gmail.com**
+- 📫 How to reach me **azizjonbahromov711@gmail.com**
 
-- 📄 Know about my experiences [https://me.behzodasliddinov.uz/#about](https://me.behzodasliddinov.uz/#about)
+- 📄 Know about my experiences [https://github.com/bakhromov-tech](https://github.com/bakhromov-tech)
 
-- ⚡ Fun fact **I think,I'm funny person!**
+- ⚡ Fun fact **Constant study and sports!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
