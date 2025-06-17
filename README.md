@@ -68,9 +68,11 @@ Welcome to my GitHub profile! I'm a **Data Scientist** and **Machine Learning En
   <a href="https://instagram.com/bakhromov_tech" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" /></a>
 </p>
 
-## 🚀 My Projects
-Check out my work on [GitHub](https://github.com/bakhromov-tech). Some highlights include:
-- **[ML Models](https://github.com/bakhromov-tech)**: A collection of machine learning projects showcasing predictive modeling and data analysis.
-- **[BigBook](https://bigbook.behzodasliddinov.uz/)**: A collaborative platform for innovative data-driven applications.
+🚀 My Projects
+Check out my work on GitHub. Some highlights include:
 
-Thanks for visiting my profile! Let's connect and build something amazing together! 🚀
+OCR Model for Cyrillic and Uzbek Texts: A custom Optical Character Recognition (OCR) model designed to process Cyrillic and Uzbek language texts. This model is trained to accurately extract text from images, diagrams, and tables, handling complex layouts with high precision. Built using PyTorch, Tesseract, and pdf2image, it supports multilingual document processing and is optimized for real-world applications in Uzbekistan.
+ML Models: A collection of machine learning projects showcasing predictive modeling and data analysis.
+BigBook: A collaborative platform for innovative data-driven applications.
+
+
