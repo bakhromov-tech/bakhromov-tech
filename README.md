@@ -53,6 +53,15 @@ Welcome to my GitHub profile! I'm a **Data Scientist** and **Machine Learning En
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white)
 
+## 🚀 My Projects
+
+Check out my work on [GitHub](https://github.com/bakhromov-tech). Some highlights include:
+
+- **[OCR Model for Cyrillic and Uzbek Texts](https://github.com/bakhromov-tech)**: A custom Optical Character Recognition (OCR) model designed to process Cyrillic and Uzbek language texts. This model is trained to accurately extract text from images, diagrams, and tables, handling complex layouts with high precision. Built using PyTorch, Tesseract, and pdf2image, it supports multilingual document processing and is optimized for real-world applications in Uzbekistan.
+- **[ML Models](https://github.com/bakhromov-tech)**: A collection of machine learning projects showcasing predictive modeling and data analysis.
+
+Thanks for visiting my profile! Let's connect and build something amazing together! 🚀
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bakhromov-tech&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -67,12 +76,3 @@ Welcome to my GitHub profile! I'm a **Data Scientist** and **Machine Learning En
   <a href="https://www.facebook.com/azizjon.bahromov.9/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" /></a>
   <a href="https://instagram.com/bakhromov_tech" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" /></a>
 </p>
-
-🚀 My Projects
-Check out my work on GitHub. Some highlights include:
-
-OCR Model for Cyrillic and Uzbek Texts: A custom Optical Character Recognition (OCR) model designed to process Cyrillic and Uzbek language texts. This model is trained to accurately extract text from images, diagrams, and tables, handling complex layouts with high precision. Built using PyTorch, Tesseract, and pdf2image, it supports multilingual document processing and is optimized for real-world applications in Uzbekistan.
-ML Models: A collection of machine learning projects showcasing predictive modeling and data analysis.
-BigBook: A collaborative platform for innovative data-driven applications.
-
-
