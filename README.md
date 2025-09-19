@@ -1,6 +1,8 @@
-# Hi, I'm Azizjon Bahromov 👋
+# Hi, I'm Azizjon Bakhromov 👋
 
-Welcome to my GitHub profile! I'm a **Data Scientist** and **Machine Learning Engineer** passionate about leveraging AI, data engineering, and advanced analytics to solve real-world problems. With expertise in building scalable ML models, data pipelines, and deploying AI solutions, I thrive at the intersection of technology and innovation.
+Welcome to my GitHub profile!
+I'm a **Data Scientist** and **Deep Learning Engineer** passionate about leveraging AI, data engineering, and advanced analytics to solve real-world problems. I have hands-on experience training and fine-tuning various deep learning models, including computer vision, natural language processing, and voice activity detection systems. With expertise in building scalable data pipelines, deploying AI solutions, and optimizing model performance, I thrive at the intersection of technology and innovation.
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bakhromov-tech&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
